@@ -63,7 +63,7 @@ O servidor da API estará rodando em http://localhost:8080
  Em um novo terminal, navegue até a pasta do frontend
 cd ../frontend-taskmanager # (Ajuste o caminho se necessário)
 
- Instale as dependências
+ Instale as dependências dentro de cd .\frontendtaskmanager
 npm install
 
  Execute o servidor de desenvolvimento
