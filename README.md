@@ -1,7 +1,7 @@
 # Task Manager - Aplicação Full-Stack
 
 Este é um projeto de portfólio que demonstra a construção de uma aplicação web completa (Full-Stack) para gerenciamento de tarefas. O sistema conta com uma API RESTful desenvolvida em **Java com Spring Boot** e um frontend interativo construído com **Next.js e TypeScript**.
-
+https://github.com/guilhermeHcampos/sistema-de-tarefas-springboot-next.js/blob/main/README.md
 ## ✨ Funcionalidades
 
 -   **Visualização de Tarefas:** Liste todas as tarefas existentes com seus respectivos status.
@@ -61,9 +61,10 @@ O servidor da API estará rodando em http://localhost:8080
 
 
  Em um novo terminal, navegue até a pasta do frontend
-cd ../frontend-taskmanager # (Ajuste o caminho se necessário)
+cd ./frontendtaskmanager # (Ajuste o caminho se necessário)
 
- Instale as dependências dentro de cd .\frontendtaskmanager
+
+ Instale as dependências 
 npm install
 
  Execute o servidor de desenvolvimento
